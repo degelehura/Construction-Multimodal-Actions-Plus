@@ -1,0 +1,11 @@
+CMAP/climb/0_climb.mp4
+CMAP/climb/0_climb_0.avi
+CMAP/climb/0_climb_1.avi
+CMAP/climb/0_climb_2.avi
+CMAP/climb/0_climb_3.avi
+CMAP/climb/11_climb.mp4
+CMAP/climb/11_climb_0.avi
+CMAP/climb/11_climb_1.avi
+CMAP/climb/11_climb_2.avi
+CMAP/climb/11_climb_3.avi
+...
