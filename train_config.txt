@@ -1,0 +1,22 @@
+top.finetuning_type: lora
+top.model_name: InternVL3.5-4B-hf
+train.apollo_rank: 16
+train.apollo_scale: 32
+train.badam_update_ratio: 0.05
+train.batch_size: 1
+train.compute_type: bf16
+train.enable_thinking: true
+train.extra_args: '{"optim": "adamw_torch"}'
+train.galore_rank: 16
+train.galore_scale: 2
+train.gradient_accumulation_steps: 16
+train.learning_rate: 5e-5
+train.logging_steps: 5
+train.lora_alpha: 16
+train.lora_rank: 8
+train.lr_scheduler_type: cosine
+train.num_train_epochs: '3.0'
+train.save_steps: 300
+train.training_stage: Supervised Fine-Tuning
+train.video_max_pixels: 448*448
+train.video_min_pixels: 14*14
